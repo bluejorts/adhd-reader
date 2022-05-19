@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         ADHD Reader
-// @namespace    http://jorts.space/
-// @version      0.1
+// @namespace    https://github.com/bluejorts/adhd-reader
+// @version      0.1.1
 // @description  handle any wikipedia text and convert to ADHD bolding
 // @author       Barry Ira
 // @match        https://en.wikipedia.org/wiki/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wikipedia.org
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js
+// @updateURL    https://raw.githubusercontent.com/bluejorts/adhd-reader/main/tampermonkey.js
+// @downloadURL  https://raw.githubusercontent.com/bluejorts/adhd-reader/main/tampermonkey.js
 // @grant        none
 // ==/UserScript==
 
